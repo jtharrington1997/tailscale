@@ -1,3 +1,13 @@
+> **Harrington fork notes**
+>
+> Fork of [`tailscale/tailscale`](https://github.com/tailscale/tailscale). Currently carries **no local divergence from upstream**.
+>
+> - **Why forked:** TODO — verify. Candidates: (a) pinning a known-good revision for reproducible builds on `ironman`; (b) planned local modifications that haven't landed. If neither applies, this fork is redundant and should be removed.
+> - **Delta from upstream:** none at this time.
+> - **Rebase policy:** fast-forward track `tailscale/tailscale:main`. Reconsider fork necessity at 30-day review.
+
+---
+
 # Tailscale
 
 https://tailscale.com
